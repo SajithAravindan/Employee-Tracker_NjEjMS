@@ -36,6 +36,37 @@ GIVEN a command-line application that accepts user input
 Node.js, Inquirer, and MySQL.
 
 ## Usage
+A command-line application that at a minimum allows the user to:
+
+Add departments, roles, employees (one row at a time)
+View departments, roles, employees
+Update employee roles
+Update employee managers
+View employees by manager
+Delete departments, roles, and employees (one row at a time)
+
+## Installation
+* This application need node.js, please refer to [offical website](https://nodejs.org/en/download/) for installation
+* download this repo by running
+    ```bash
+    git clone https://github.com/SajithAravindan/Employee-Tracker_NjEjMS.git
+    ```
+* This application also need to install mysql on your computer, please refer to [mysql website](https://www.mysql.com/downloads/) for installation
+* Change password in ```index.js``` to your root user password of your mysql DBMS.
+* install required node pacakges by running
+    ```bash
+    npm install
+    ```
+* Create schema of database tables by running all the queries in ```schema.sql```
+* Set up test records yourself or run queries in ```seed.sql```
+* start the application by running
+    ```
+    node index
+    ```
+    or
+    ```
+    npm start
+    ```
 
 ## Demo
 
@@ -48,7 +79,7 @@ GitHub Repository: https://github.com/SajithAravindan/Employee-Tracker_NjEjMS.gi
 Demo Video Link: 
 
 ## License
-- Please refer to the LICENSE in the repo. <a href="https://github.com/SajithAravindan/readme-generator-NJS/blob/main/LICENSE">(MIT License)</a>
+* Please refer to the LICENSE in the repo. <a href="https://github.com/SajithAravindan/readme-generator-NJS/blob/main/LICENSE">(MIT License)</a>
 
 
 ---
