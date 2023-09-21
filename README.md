@@ -1,7 +1,15 @@
 # Professional Employee Tracker
 
 ## Description
-This is a command-line content management systems (CMS) application to manage a company's employee Details. This application will enable  non-developers to easily view and interact with information stored in databases. 
+This is a command-line content management systems (CMS) application to manage a company's employee Details. This application will enable  non-developers to easily manage and interact with information stored in databases.
+
+As a User You can:
+* Add departments, roles, employees (one row at a time)
+* View departments, roles, employees
+* Update employee roles
+* Update employee managers
+* View employees by manager
+* Delete departments, roles, and employees (one row at a time) 
 
 User Story & Acceptance Criteria follow the AS AN / I WANT / SO THAT format.
 
