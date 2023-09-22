@@ -1,8 +1,10 @@
-const express = require('express');
+//Global Variables
 const mysql = require('mysql2');
+const inquier = require('inquirer');
+const startQuestions = require('./lib/main_menu');
 
-const PORT = process.env.PORT || 3001;
-const app = express();
+function init(){
+    startQuestions();//initialize the application
+} 
 
-app.use(express.urlencoded({ extended: false }));
-app.use(express.json());
+init(); 
