@@ -12,6 +12,25 @@ As a User You can:
 * Delete departments, roles, and employees (one row at a time) 
 
 User Story & Acceptance Criteria follow the AS AN / I WANT / SO THAT format.
+ ## Table of Contents 
+  
+   * [User Story](#User-Story) 
+  
+   * [Acceptance Criteria](#Acceptance-Criteria)
+  
+   * [Technologies Used](#Technologies-Used) 
+  
+   * [Usage](#Usage) 
+
+   * [Installation](#Installation) 
+
+   * [Demo](#Installation) 
+
+   * [Review](#Installation) 
+  
+   * [License](#license) 
+  
+   
 
 ## User Story
 AS A business owner
@@ -60,7 +79,7 @@ Delete departments, roles, and employees (one row at a time)
     git clone https://github.com/SajithAravindan/Employee-Tracker_NjEjMS.git
     ```
 * This application also need to install mysql on your computer, please refer to [mysql website](https://www.mysql.com/downloads/) for installation
-* Change password in ```index.js``` to your root user password of your mysql DBMS.
+* Change connection credentials in ```connection.js``` to your root/user/password of your mysql DBMS.
 * install required node pacakges by running
     ```bash
     npm install
@@ -71,12 +90,8 @@ Delete departments, roles, and employees (one row at a time)
     ```
     node index
     ```
-    or
-    ```
-    npm start
-    ```
-
-## Demo
+  
+  ## Demo
 
 [![Watch the video](./imgs/demo.jpg)](https://drive.google.com/file/d/1ZFNPltmG4_qYzewmWywe_d9tOJ1Gy1UR/view)
 
