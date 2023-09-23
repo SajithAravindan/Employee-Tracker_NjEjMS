@@ -78,13 +78,14 @@ Delete departments, roles, and employees (one row at a time)
 
 ## Demo
 
-[![Watch the video](./imgs/demo.jpg)]()
+[![Watch the video](./imgs/demo.jpg)](https://drive.google.com/file/d/1ZFNPltmG4_qYzewmWywe_d9tOJ1Gy1UR/view)
 
 ## Review
 
 GitHub Repository: https://github.com/SajithAravindan/Employee-Tracker_NjEjMS.git
 
-Demo Video Link: 
+Demo Video Link: https://drive.google.com/file/d/1ZFNPltmG4_qYzewmWywe_d9tOJ1Gy1UR/view
+
 
 ## License
 * Please refer to the LICENSE in the repo. <a href="https://github.com/SajithAravindan/readme-generator-NJS/blob/main/LICENSE">(MIT License)</a>
