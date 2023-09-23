@@ -61,7 +61,7 @@ GIVEN a command-line application that accepts user input
 
 
 ## Technologies Used
-Node.js, Inquirer, and MySQL.
+Node.js, Javascript and MySQL.
 
 ## Usage
 A command-line application that at a minimum allows the user to:
