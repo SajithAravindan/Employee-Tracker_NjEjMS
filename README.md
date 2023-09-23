@@ -9,6 +9,7 @@ As a User You can:
 * Update employee roles
 * Update employee managers
 * View employees by manager
+* View employees by manager
 * Delete departments, roles, and employees (one row at a time) 
 
 User Story & Acceptance Criteria follow the AS AN / I WANT / SO THAT format.
@@ -24,9 +25,9 @@ User Story & Acceptance Criteria follow the AS AN / I WANT / SO THAT format.
 
    * [Installation](#Installation) 
 
-   * [Demo](#Installation) 
+   * [Demo](#Demo) 
 
-   * [Review](#Installation) 
+   * [Review](#Review) 
   
    * [License](#license) 
   
