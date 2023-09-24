@@ -72,10 +72,11 @@ A command-line application that at a minimum allows the user to:
     *  roles
     *  employees
     *  employees by manager
+    *  employees by department
     *  total utilized budget of a department
 * Update 
-    *  employee roles
-    *  employee managers
+    *  employee's roles
+    *  employee's managers
 * Delete 
     *  departments
     *  roles
