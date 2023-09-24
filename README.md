@@ -64,22 +64,22 @@ Node.js, Javascript and MySQL.
 A command-line application that at a minimum allows the user to:
 
 * Add 
-    -- departments
-    -- roles
-    -- employees
+    *  departments
+    *  roles
+    *  employees
 * View 
-    -- departments
-    -- roles
-    -- employees
-    -- employees by manager
-    -- total utilized budget of a department
+    *  departments
+    *  roles
+    *  employees
+    *  employees by manager
+    *  total utilized budget of a department
 * Update 
-    -- employee roles
-    -- employee managers
+    *  employee roles
+    *  employee managers
 * Delete 
-    -- departments
-    -- roles
-    -- employees
+    *  departments
+    *  roles
+    *  employees
 
 
 ## Installation
