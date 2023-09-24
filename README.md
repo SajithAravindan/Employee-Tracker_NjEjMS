@@ -9,7 +9,7 @@ As a User You can:
 * Update employee roles
 * Update employee managers
 * View employees by manager
-* View employees by manager
+* View the total utilized budget of a department
 * Delete departments, roles, and employees (one row at a time) 
 
 User Story & Acceptance Criteria follow the AS AN / I WANT / SO THAT format.
@@ -58,6 +58,10 @@ GIVEN a command-line application that accepts user input
     THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
 * WHEN I choose to update an employee role
     THEN I am prompted to select an employee to update and their new role and this information is updated in the database
+* WHEN I choose to View the total utilized budget of a department
+    THEN I am presented with a formatted table showing department names and department ids to chose from
+    THEN I am presented with a utilized budget of that department
+
 
 
 ## Technologies Used
