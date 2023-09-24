@@ -3,17 +3,10 @@
 ## Description
 This is a command-line content management systems (CMS) application to manage a company's employee Details. This application will enable  non-developers to easily manage and interact with information stored in databases.
 
-As a User You can:
-* Add departments, roles, employees (one row at a time)
-* View departments, roles, employees
-* Update employee roles
-* Update employee managers
-* View employees by manager
-* View the total utilized budget of a department
-* Delete departments, roles, and employees (one row at a time) 
-
 User Story & Acceptance Criteria follow the AS AN / I WANT / SO THAT format.
- ## Table of Contents 
+
+
+## Table of Contents 
   
    * [User Story](#User-Story) 
   
@@ -30,13 +23,13 @@ User Story & Acceptance Criteria follow the AS AN / I WANT / SO THAT format.
    * [Review](#Review) 
   
    * [License](#license) 
-  
-   
+
 
 ## User Story
 AS A business owner
 * I WANT to be able to view and manage the departments, roles, and employees in my company
     SO THAT I can organize and plan my business
+
 
 ## Acceptance Criteria
 
@@ -63,19 +56,31 @@ GIVEN a command-line application that accepts user input
     THEN I am presented with a utilized budget of that department
 
 
-
 ## Technologies Used
 Node.js, Javascript and MySQL.
+
 
 ## Usage
 A command-line application that at a minimum allows the user to:
 
-Add departments, roles, employees (one row at a time)
-View departments, roles, employees
-Update employee roles
-Update employee managers
-View employees by manager
-Delete departments, roles, and employees (one row at a time)
+* Add 
+    -- departments
+    -- roles
+    -- employees
+* View 
+    -- departments
+    -- roles
+    -- employees
+    -- employees by manager
+    -- total utilized budget of a department
+* Update 
+    -- employee roles
+    -- employee managers
+* Delete 
+    -- departments
+    -- roles
+    -- employees
+
 
 ## Installation
 * This application need node.js, please refer to [offical website](https://nodejs.org/en/download/) for installation
@@ -96,13 +101,10 @@ Delete departments, roles, and employees (one row at a time)
     node index
     ```
   
-  ## Demo
+## Demo
 
 [![Watch the video](./imgs/demo.jpg)](https://drive.google.com/file/d/1ZFNPltmG4_qYzewmWywe_d9tOJ1Gy1UR/view)
 
-## Review
-
-GitHub Repository: https://github.com/SajithAravindan/Employee-Tracker_NjEjMS.git
 
 Demo Video Link: https://drive.google.com/file/d/1ZFNPltmG4_qYzewmWywe_d9tOJ1Gy1UR/view
 
